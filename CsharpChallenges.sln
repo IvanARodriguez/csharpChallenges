@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpChallenges", "CsharpChallenges\CsharpChallenges.csproj", "{0B790A09-6DBB-4C5E-B131-7E4581EAEA08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpChallenges", "CsharpChallenges\CsharpChallenges.csproj", "{B2B93CE6-8486-49E2-8C34-D645AEF6F30F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0B790A09-6DBB-4C5E-B131-7E4581EAEA08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B790A09-6DBB-4C5E-B131-7E4581EAEA08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B790A09-6DBB-4C5E-B131-7E4581EAEA08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B790A09-6DBB-4C5E-B131-7E4581EAEA08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2B93CE6-8486-49E2-8C34-D645AEF6F30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2B93CE6-8486-49E2-8C34-D645AEF6F30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2B93CE6-8486-49E2-8C34-D645AEF6F30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2B93CE6-8486-49E2-8C34-D645AEF6F30F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
